@@ -56,3 +56,8 @@ plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
 
 source ~/.zshrc
 ```
+- install tldr : command usage utilities 
+```bash 
+sudo apt install tdlr -y 
+tldr --update # it will fetch the documentation from git 
+```
